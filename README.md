@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @regan-mu
 - 👀 I’m interested in ... Web Development and Data Science
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... R
 - 💞️ I’m looking to collaborate on ... Data Science Projects
 - 📫 How to reach me ... regansomi@gmail.com
 
