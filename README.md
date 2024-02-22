@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @regan-mu
 - 👀 Am a Data Scientist/Data Analyst
 - 💞️ I solve problems with machine learning and Data.
-- 📫 How to reach me ... regan.muthomiyahoo.com
+- 📫 How to reach me ... regan.muthomi@yahoo.com
 
 ### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
