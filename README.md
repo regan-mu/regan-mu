@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @regan-mu
-- 👀 Am a Data Scientist/Data Analyst
-- 💞️ I solve problems with machine learning and Data.
+- 👀 Am a Software Engineer
+- 💞️ I solve problems ...
 - 📫 How to reach me ... regan.muthomi@yahoo.com
 
 ### Skills
